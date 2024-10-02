@@ -1,0 +1,12 @@
+{
+  "name": "rss_node_file_manager",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js -- --username=Dmitrii_Glazkov"
+  },
+  "license": "ISC"
+}
